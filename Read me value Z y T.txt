@@ -1,0 +1,9 @@
+Para las tablas de valores criticos Z y T porfavor lea los comentarios que se encuentran en el documento
+en las siguientes ubicaciones:
+
+Hoja "z value" celda M2
+Hola "t value" celda I2
+
+Atentamente 
+
+DYLAN MARCELO SALINAS RAMOS

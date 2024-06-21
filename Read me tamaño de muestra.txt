@@ -1,0 +1,14 @@
+ Para utilizar la herramienta "Calculadora de tamaños de muestra" debe tener encuenta las siguientes consideraciones:
+
+1. Su uso se limita a unicamente para variables cuantitativas.
+2. La formula que utiliza es unicamente para calcular tamaños de muestra de población conocida.
+3. La herramienta trabaja por defecto con una desviación estandar poblacional de 0,5
+4. La herramienta esta programada bajo el supuesto que usted no conoce la desviación estandar poblacional.
+5. En caso de usted conocer la desviación estandar poblacional esta herramienta no es la adecuada para utilizar.
+6. La herramienta es un archivo de excel habilitado para macros, por lo que debera aceptar habilitar contenido
+si desea que funcione correctamente la herramienta.
+
+
+Atentemente
+
+DYLAN MARCELO SALINAS RAMOS
